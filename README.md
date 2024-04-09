@@ -1,7 +1,8 @@
 
 # DaVinci's Mona Lisa: AI-Powered Painting Creator and Description Generator
 
-This project is a web application that allows users to configure painting parameters and generate painting descriptions using an AI model. The application also includes a feature that calls the AI model to generate a painting based on the painting description it generated earlier. The user interface consists of two panels side by side: Painting Parameters and Painting Display.
+This project is a web application that allows users to configure painting parameters and generate painting descriptions using an AI model. The application also includes a feature that calls the AI model with user 
+configurable image parameters to generate a painting based on the painting description it generated earlier. The user interface consists of two panels side by side: Painting Parameters and Painting Display.
 
 ## Prerequisites
 
